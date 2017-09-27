@@ -31,11 +31,22 @@ https://ad.doubleclick.net/ddm/jump/N124603.160638TRUCKNEWS/B20147219.202287077;
 ````
 
 ## [Big Box Image 1](http://via.placeholder.com/300x250/?text=BigBox+1)
+
 ## [Big Box Image 2](http://via.placeholder.com/300x250/?text=BigBox+2)
+
 ## [Leaderboard Image 1](http://via.placeholder.com/728x90/?text=Leaderboard+1)
+
 ## [Leaderboard Image 2](http://via.placeholder.com/728x90/?text=Leaderboard+2)
+
 ## [Leaderboard 300x90 Image 1](http://via.placeholder.com/300x90/?text=Leaderboard+300x90+1)
+
 ## [Leaderboard 300x90 Image 2](http://via.placeholder.com/300x90/?text=Leaderboard+300x90+2)
+
+## [Wallpaper Left, 480x900](http://via.placeholder.com/480x900/?text=Wallpaper+480x900+Left)
+
+## [Wallpaper Right, 480x900](http://via.placeholder.com/480x900/?text=Wallpaper+480x900+Right)
+
+## [Wallpaper, Impression and Click Tracking Tags](./Old-Dominion-Wallpaper-Tags.xls)
 
 # W1: Big Box for Truck News using DoubleClick Tag as creative
 
@@ -49,5 +60,6 @@ https://ad.doubleclick.net/ddm/jump/N124603.160638TRUCKNEWS/B20147219.202287077;
 
 # W6: Responsive Leaderboard on Oral Health Group Newsletter
 
-# W7: 
+# W7: Wallpaper on Canadian Shipper
+
 
