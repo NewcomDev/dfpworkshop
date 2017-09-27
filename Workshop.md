@@ -48,6 +48,29 @@ https://ad.doubleclick.net/ddm/jump/N124603.160638TRUCKNEWS/B20147219.202287077;
 
 ## [Wallpaper, Impression and Click Tracking Tags](./Old-Dominion-Wallpaper-Tags.xls)
 
+## Text Ad Newsletter
+### Image
+[140x108](http://via.placeholder.com/140x108/?text=140x108+TextAd)
+### Link
+http://www.30fe.com/
+### Title
+30 Forensic Engineering - Multi-Disciplinary & Fully Independent
+### Content 
+We provide world-class engineering and consulting services in:
+• Fire, Explosion & Electrical • Transportation Safety • Civil/Structural • Trucking • Building Code • Renewable Energy • Geotechnical & Mining • Environment, Health & Safety • Construction Claims • Remediation • Biomechanics, Personal Injury, Human Factors, Collision Reconstruction • Materials Failure/HVAC
+
+To submit a file or for further information please contact **30 Forensic
+	Engineering** today. [Click here](http://www.30fe.com/)
+
+## Instream
+### [Video](./Voco-pre-roll.mp4)
+### Link
+https://goo.gl/MMKBqn
+### [Companion Banner 640x90](http://via.placeholder.com/640x90/?text=640x90+Companion)
+### Start/End, Number of Impressions
+From Today to the end of the year
+2500 impressions
+
 # W1: Big Box for Truck News using DoubleClick Tag as creative
 
 # W2: DoubleClick Tag Missing
@@ -61,5 +84,10 @@ https://ad.doubleclick.net/ddm/jump/N124603.160638TRUCKNEWS/B20147219.202287077;
 # W6: Responsive Leaderboard on Oral Health Group Newsletter
 
 # W7: Wallpaper on Canadian Shipper
+
+# W8: Text Ad on Canadian Underwriter Newsletter
+[Sample](https://www.google.com/dfp/95740733?#delivery/LineItemDetail/orderId=337427653&lineItemId=4382194532)
+
+# W9: Instream + Companion to VAST_Companion_Auto_Editorial
 
 
